@@ -2,7 +2,7 @@
 
 Welcome to MovieApp, a React application for browsing movies! This project aims to provide a seamless movie browsing experience, featuring upcoming, popular, and top-rated movies. Dive into the details of your favorite movies with just a click and enjoy a visually appealing carousel at the top of the page displaying hero banners of selected movies.
 
-Features : <br/>
+Features :  <br/>
 1. Upcoming Movies: Stay updated with the latest upcoming movies.
 2. Popular Movies: Browse through the most popular movies.
 3. Top Rated Movies: Discover the top-rated movies of all time.
